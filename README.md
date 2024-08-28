@@ -14,3 +14,11 @@ valid. An input string is valid if:
 ## 3. Longest Increasing Subsequence
 ### Problem Description:
 ##### Given an unsorted array of integers, find the length of the longest increasing subsequence
+## How to Run (python required)
+#### 1. Double click the '.py' file in Windows Explorer to run it. Howecer, the terminal
+window might close immediately after execution so its better to run it from the command prompt to see the output.
+### Using Command Prompt
+#### 
+1. Open Command Prompt
+2. Navigate to the directory where '.py' is located using cd command. example. 'cd path/to/palindrome.py
+3. Run the file by typing Python LISlenght.py.
